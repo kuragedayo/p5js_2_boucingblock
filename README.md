@@ -1,1 +1,2 @@
 This is my second p5js work. Basically I just want to make kind of thing like the old TVs always does when there's no signal imput, just a little cube bouncing around at change colors. I remembered I used random and the for loop to create this.
+https://editor.p5js.org/kuragewayowai/sketches/39IfDYujg
